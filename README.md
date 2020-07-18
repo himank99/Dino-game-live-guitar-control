@@ -9,7 +9,7 @@ Dino game(implemented using pygame module) which is controlled by guitar chords 
 
 
 ## Reference Paper for Guitar chords
-[Research paper](http://www.montefiore.ulg.ac.be/services/acous/STSI/file/jim2012Chords.zip) NEURAL NETWORKS FOR MUSICAL CHORDS RECOGNITION
+[Research paper](http://www.montefiore.ulg.ac.be/services/acous/STSI/file/jim2012Chords.zip) NEURAL NETWORKS FOR MUSICAL CHORDS RECOGNITION.
 To convert WAV file to data(HPCP)[Here](https://github.com/jvbalen/hpcp_demo) Harmonic Pitch Class Profile extraction
 
 ## TODO list
