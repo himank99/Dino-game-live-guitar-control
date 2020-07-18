@@ -1,5 +1,5 @@
 # Dino-game-live-guitar-control
-Dino game(implemented using pygame module) which is controlled by guitar chords and the model is trained using tensorflow and keras.
+Dino game(implemented using pygame module) which is controlled by guitar chords and the model is trained with tensorflow and keras model.
 
 # Requirements
 - PyGame
